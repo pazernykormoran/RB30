@@ -7,3 +7,6 @@
 [submodule "Frontend-RB30"]
 	path = Frontend-RB30
 	url = git@github.com:pazernykormoran/Frontend-RB30.git
+[submodule "Alerts-RB30"]
+	path = Alerts-RB30
+	url = git@github.com:pazernykormoran/Alerts-RB30.git
