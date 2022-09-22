@@ -1,6 +1,6 @@
-[submodule "Engine-RB30"]
-	path = Engine-RB30
-	url = git@github.com:pazernykormoran/Engine-RB30.git
+[submodule "Backtester-RB30"]
+	path = Backtester-RB30
+	url = git@github.com:pazernykormoran/Backtester-RB30.git
 [submodule "Backend-RB30"]
 	path = Backend-RB30
 	url = git@github.com:pazernykormoran/Backend-RB30.git
